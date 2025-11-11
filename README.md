@@ -49,3 +49,7 @@ Add a “Back to top” button
 Create a gallery section using CSS Grid for past events
 🏁 Goal
 By completing this project, you’ll demonstrate your mastery of HTML and CSS fundamentals while creating a realistic Event Center website that you can showcase in your portfolio! 🌟
+
+
+Site to upload Photos: 
+https://postimages.org/
